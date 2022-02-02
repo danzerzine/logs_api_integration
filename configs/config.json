@@ -215,7 +215,7 @@
         "ym:pv:parsedParamsKey7",
         "ym:pv:parsedParamsKey8",
         "ym:pv:parsedParamsKey9",
-        "ym:pv:parsedParamsKey10",
+        "ym:pv:parsedParamsKey10"
     ],
     "log_level": "INFO",
     "retries": 5,
